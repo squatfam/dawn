@@ -806,7 +806,7 @@ a.product__text {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  right: 2rem;
+  right: 5%;
   padding: 1.2rem;
   position: absolute;
   z-index: 2;
